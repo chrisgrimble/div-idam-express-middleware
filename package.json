@@ -1,6 +1,6 @@
 {
-  "name": "@hmcts/div-idam-express-middleware",
-  "version": "6.6.0",
+  "name": "@hmcts/ia-idam-express-middleware",
+  "version": "6.6.1",
   "description": "Express middleware for IDAM integration",
   "license": "MIT",
   "main": "index.js",
@@ -35,5 +35,14 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmcts/ia-idam-express-middleware.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/hmcts/ia-idam-express-middleware/issues"
+  },
+  "homepage": "https://github.com/hmcts/ia-idam-express-middleware#readme"
 }
